@@ -72,7 +72,7 @@ cdk deploy <StackName>
 
 After bootstrapping the required resources for the CDK with `cdk bootstrap` you can then deploy the template with `cdk deploy <StackName>`. Bootstrapping is only require once.
 
-`<StackName>` can be either `CloudGamingOnG4DN`, `CloudGamingOnG4AD` or `CloudGamingOnG5`, depending on the instance type you want to use.
+`<StackName>` can be either `CloudGamingsOnG4DN`, `CloudGamingsOnG4AD` or `CloudGamingOnG5`, depending on the instance type you want to use.
 
 The following table gives an overview over the expected graphics performance, expressed as 3DMark Time Spy scores.
 
